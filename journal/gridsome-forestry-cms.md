@@ -1,8 +1,9 @@
 ---
 date: 2019-06-07
-title: Gridsome with Forestry CMS
+title: Gridsome with Forestry CMS used by Jetpulp !!!
 author: Nichlas W. Andersen
-excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick editing interface.
+excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick
+  editing interface.
 
 ---
 #### Use Forestry as a CMS for Gridsome
